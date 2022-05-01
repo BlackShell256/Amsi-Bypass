@@ -5,7 +5,7 @@ $a = 'si'; $b = 'Am'; $Ref = [Ref].Assembly.GetType(('System.Management.Automati
 ```
 
 # Spanish:
-## Ejemplo de uso:
+Ejemplo de uso:
 
 Guardar en un archivo, este script de Mimikatz de este repo:
 https://raw.githubusercontent.com/dievus/PowerShellForPentesters/main/Tools/Invoke-Mimikatz.ps1
@@ -34,8 +34,7 @@ $a = 'si'; $b = 'Am'; $Ref = [Ref].Assembly.GetType(('System.Management.Automati
 ```
 
 # English:
-
-## Example of use:
+Example of use:
 
 Save to a file, this Mimikatz script from this repo:
 https://raw.githubusercontent.com/dievus/PowerShellForPentesters/main/Tools/Invoke-Mimikatz.ps1
